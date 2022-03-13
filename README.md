@@ -49,5 +49,6 @@ $ python train.py --img 640 --batch 8 --epochs 120 --data custom_data.yaml --wei
 衛生紙以外的東西無法辨識
   <p align="center"><img src="https://user-images.githubusercontent.com/74965449/158049855-5258718a-6d0c-46ed-8464-277830c61914.png" width="30%" height="30%"></p>
    <p align="center"><img src="https://user-images.githubusercontent.com/74965449/158049845-fe77b545-1bef-4550-b013-b227ab03b82e.png" width="30%" height="30%"></p>
+   
 ##  參考資料
 https://github.com/ultralytics/yolov5
