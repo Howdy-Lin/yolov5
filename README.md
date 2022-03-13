@@ -1,5 +1,5 @@
 # yolov5 (如何使用yolov5訓練自己的模型進行object detection)
-## 環境:GPU RTX-3070,driver version:510.47.03,cuda:11.6<br>torch version:1.8.0+cu111,torchvision==0.9.0+cu111 torchaudio==0.8.0
+## 環境:ubuntu18.04 , GPU RTX-3070,driver version:510.47.03,cuda:11.6<br>torch version:1.8.0+cu111,torchvision==0.9.0+cu111 torchaudio==0.8.0
 ## *操作前心得,踩過坑的點
 在使用yolov5之前,我嘗試過yolov2及yolov4,但往往受環境影響無法成功<p>例如yolov2使用的darkflow程式較舊,無法套用在我環境下的tensorflow2<p>
   而yolov4使用上又相當麻煩,所以最後找到較為快速上手的yolov5,但仍遇到幾個坑點,以下逐一贅述<p>
